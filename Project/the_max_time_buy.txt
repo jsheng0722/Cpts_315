@@ -1,0 +1,10 @@
+Organic Fuji Apple,Banana: 9
+Honeycrisp Apple,Banana: 10
+Cucumber Kirby,Banana: 16
+Organic Large Extra Fancy Fuji Apple,Bag of Organic Bananas: 10
+Seedless Red Grapes,Banana: 9
+Organic Avocado,Banana: 14
+Blueberries,Banana: 9
+Organic Raspberries,Bag of Organic Bananas: 9
+Strawberries,Banana: 12
+Organic Hass Avocado,Bag of Organic Bananas: 13
